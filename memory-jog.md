@@ -8,6 +8,8 @@ link to youtube video
 Learn React Authorization Form 
 https://www.youtube.com/watch?v=bPe2EFW5QHQ
 
+link to source folder
+/c/Users/glads/Downloads/learn-react-from-AI/learn
 
 link to AI
 
